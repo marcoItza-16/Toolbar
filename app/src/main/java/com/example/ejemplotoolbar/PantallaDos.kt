@@ -24,7 +24,7 @@ class PantallaDos : AppCompatActivity() {
 
 
     }
-
+//ActionBar
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_pantalla_dos, menu)
 
