@@ -28,6 +28,7 @@ class PantallaDos : AppCompatActivity() {
     //toolbar personalizada
     // Añadiendo elementos
     //eventos a elementos
+    //Configurar botón hacia atrás
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_pantalla_dos, menu)
 
