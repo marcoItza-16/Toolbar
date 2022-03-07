@@ -30,6 +30,7 @@ class PantallaDos : AppCompatActivity() {
     //eventos a elementos
     //Configurar botón hacia atrás
     //SearchView
+    //Compartir contenido
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_pantalla_dos, menu)
 
