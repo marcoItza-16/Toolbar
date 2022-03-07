@@ -25,6 +25,7 @@ class PantallaDos : AppCompatActivity() {
 
     }
 //ActionBar
+    //toolbar personalizada
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_pantalla_dos, menu)
 
